@@ -3,3 +3,8 @@
 ################################################################################
 
 /MovieApi/.vs/MovieApi/v16
+/MovieApi/bin/Debug/netcoreapp3.1/runtimes
+/MovieApi/obj/Debug/netcoreapp3.1/staticwebassets
+/MovieApi/bin/Debug/netcoreapp3.1
+/MovieApi/obj/Debug/netcoreapp3.1
+/MovieApi/obj
